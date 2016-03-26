@@ -1,0 +1,11 @@
+12:06:54 **** Rebuild of configuration Debug for project hallo ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o "src\\Hallo.bc" "..\\src\\Hallo.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\Eike\AppData\Local\Smartbar\Application\]
+
+
+12:06:54 Build Finished (took 63ms)
+
